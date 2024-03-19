@@ -1,4 +1,4 @@
-![iphone (1)](https://github.com/julien-muke/iphone/assets/110755734/6d050344-b7d3-41d2-a07f-a3d394d40e76)
+![iphone (1)](https://github.com/julien-muke/apple_website/assets/110755734/18cfcbe8-31b3-4425-86c5-fd907aa4d489)
 
 <div align="center">
   <div>
@@ -742,9 +742,9 @@ canvas {
 
 ## <a name="links">🔗 Links</a>
 
-* Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
+Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
 
-* 🌐 [Live Site](https://apple-website-jade.vercel.app)
+🌐 [Live Site](https://apple-website-jade.vercel.app)
 
 
 #
