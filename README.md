@@ -55,7 +55,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/julien-muke/apple_website.git
-cd iphone
+cd apple_website
 ```
 
 **Installation**
@@ -742,7 +742,9 @@ canvas {
 
 ## <a name="links">🔗 Links</a>
 
-Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
+* Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
+
+* 🌐 [Live Site](https://apple-website-jade.vercel.app)
 
 
 #
